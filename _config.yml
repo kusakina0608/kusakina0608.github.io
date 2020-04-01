@@ -41,6 +41,6 @@ image: '' # 블로그 기본 이미지
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
