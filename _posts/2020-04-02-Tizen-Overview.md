@@ -28,7 +28,7 @@ Tizen 3.0부터 3가지의 profile type을 제공
 
 Tizen platform은 Linux 커널을 기반으로 하며, 3가지의 application type을 제공.
 
-![Tizen Architecture](/Users/kina/Documents/GitHub/kusakina0608.github.io/assets/images/2020-04-02-Tizen/tizen-architecture.png)
+![Tizen Architecture](https://github.com/kusakina0608/kusakina0608.github.io/blob/master/assets/images/2020-04-02-Tizen/tizen-architecture.png?raw=true)
 
 * Native application
 
