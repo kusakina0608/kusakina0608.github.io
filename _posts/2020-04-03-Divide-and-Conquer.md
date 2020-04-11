@@ -50,9 +50,9 @@ x좌표값(또는 y좌표값)을 기준으로 전체를 두개의 그룹으로 �
 
 분할선을 기준으로 최근접 점쌍의 길이 범위 내에서 최근접 점쌍 탐색
 
-![Closest-Fair-01](/Users/kina/Documents/GitHub/kusakina0608.github.io/assets/images/2020-04-03-Divide-and-Conquer/Closest-Fair-01.gif)
+![Closest-Fair-01](https://github.com/kusakina0608/kusakina0608.github.io/blob/master/assets/images/2020-04-03-Divide-and-Conquer/Closest-Fair-01.gif?raw=true)
 
-![Closest-Fair-01](/Users/kina/Documents/GitHub/kusakina0608.github.io/assets/images/2020-04-03-Divide-and-Conquer/Closest-Fair-02.gif)
+![Closest-Fair-01](https://github.com/kusakina0608/kusakina0608.github.io/blob/master/assets/images/2020-04-03-Divide-and-Conquer/Closest-Fair-02.gif?raw=true)
 
-![Closest-Fair-03](/Users/kina/Documents/GitHub/kusakina0608.github.io/assets/images/2020-04-03-Divide-and-Conquer/Closest-Fair-03.gif)
+![Closest-Fair-03](https://github.com/kusakina0608/kusakina0608.github.io/blob/master/assets/images/2020-04-03-Divide-and-Conquer/Closest-Fair-03.gif?raw=true)
 
