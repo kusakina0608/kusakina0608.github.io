@@ -1,3 +1,9 @@
+---
+title: "Strassen Algorithm"
+tags:
+  - Math
+use_math: true
+---
 ## Strasse의 행렬곱셈
 
 일반적인 정방행렬의 행렬곱셈은 O(n^3)의 성능을 갖는다.
