@@ -7,7 +7,7 @@ tags:
   - Linear Algebra
   - Math
   - Numpy
-categories: Artificial Neural Network
+categories: "Artificial Neural Network"
 ---
 
 ## 벡터 덧셈(Vector Addition)
