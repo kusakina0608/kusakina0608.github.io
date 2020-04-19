@@ -5,7 +5,7 @@ date:   2020-04-03 12:00:00 +0900
 tags:
   - Algorithm
   - Divide and Conquer
-categories: Algorithm
+categories: [Algorithm]
 ---
 
 ## 분할정복 알고리즘(Divide and Conquer)

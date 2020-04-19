@@ -4,7 +4,7 @@ title:  "Tizen Overview"
 date:   2020-04-02 12:00:00 +0900
 tags:
   - Tizen
-categories: Tizen
+categories: [Tizen]
 ---
 
 ## Tizen Overview

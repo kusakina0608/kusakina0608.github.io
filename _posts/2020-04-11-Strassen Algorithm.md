@@ -6,7 +6,7 @@ use_math: true
 tags:
   - Math
   - Strassen Algorithm
-categories: Algorithm
+categories: [Algorithm]
 ---
 ## Strasse의 행렬곱셈
 
