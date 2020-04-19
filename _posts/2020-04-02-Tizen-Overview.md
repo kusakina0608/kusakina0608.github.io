@@ -1,3 +1,12 @@
+---
+layout: single
+title:  "Tizen Overview"
+date:   2020-04-02 12:00:00 +0900
+tags:
+  - Tizen
+categories: Tizen
+---
+
 ## Tizen Overview
 
 Linux, Linux mobile, 삼성전자, 인텔이 공동으로 개발한 오픈 소스 모바일 운영체제.

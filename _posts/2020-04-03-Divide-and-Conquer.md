@@ -1,3 +1,13 @@
+---
+layout: single
+title:  "Divide and Conquer"
+date:   2020-04-03 12:00:00 +0900
+tags:
+  - Algorithm
+  - Divide and Conquer
+categories: Algorithm
+---
+
 ## 분할정복 알고리즘(Divide and Conquer)
 
 분할 정복 알고리즘은 그대로 해결할 수 없는 문제를 작은 문제로 분할하여 문제를 해결하는 방법이나 알고리즘이다. 빠른 정렬이나 합병 정렬로 대표되는 정렬 알고리즘 문제와 고속 푸리에 변환 문제가 대표적이다.

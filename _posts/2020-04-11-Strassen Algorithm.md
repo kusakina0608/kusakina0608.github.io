@@ -1,8 +1,12 @@
 ---
+layout: single
 title: "Strassen Algorithm"
+date:   2020-04-11 12:00:00 +0900
+use_math: true
 tags:
   - Math
-use_math: true
+  - Strassen Algorithm
+categories: Algorithm
 ---
 ## Strasse의 행렬곱셈
 

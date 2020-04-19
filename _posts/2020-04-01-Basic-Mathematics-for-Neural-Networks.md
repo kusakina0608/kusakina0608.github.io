@@ -1,3 +1,15 @@
+---
+layout: single
+title:  "Basic Mathematics for Neural Networks"
+date:   2020-04-01 12:00:00 +0900
+tags:
+  - Artificial Neural Network
+  - Linear Algebra
+  - Math
+  - Numpy
+categories: Artificial Neural Network
+---
+
 ## 벡터 덧셈(Vector Addition)
 
 import package
