@@ -1,7 +1,8 @@
 ---
-layout: single
+layout: post
 title:  "Divide and Conquer"
 date:   2020-04-03 12:00:00 +0900
+author: kusakina0608
 tags:
   - Algorithm
   - Divide and Conquer

@@ -1,7 +1,8 @@
 ---
-layout: single
+layout: post
 title:  "백준 17284 Vanding Machine"
 date:   2020-04-24 14:11:00 +0900
+author: kusakina0608
 tags:
   - 백준
   - Input

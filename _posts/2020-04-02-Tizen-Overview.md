@@ -1,7 +1,8 @@
 ---
-layout: single
+layout: post
 title:  "Tizen Overview"
 date:   2020-04-02 12:00:00 +0900
+author: kusakina0608
 tags:
   - Tizen
 categories: [Tizen]

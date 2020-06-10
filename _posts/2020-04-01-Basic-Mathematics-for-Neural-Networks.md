@@ -1,7 +1,8 @@
 ---
-layout: single
+layout: post
 title:  "Basic Mathematics for Neural Networks"
 date:   2020-04-01 12:00:00 +0900
+author: kusakina0608
 tags:
   - Artificial Neural Network
   - Linear Algebra

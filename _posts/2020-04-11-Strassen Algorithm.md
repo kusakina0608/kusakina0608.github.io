@@ -1,7 +1,8 @@
 ---
-layout: single
+layout: post
 title: "Strassen Algorithm"
 date:   2020-04-11 12:00:00 +0900
+author: kusakina0608
 use_math: true
 tags:
   - Math
