@@ -1,4 +1,5 @@
-source "https://rubygems.org"
-
-gem "jekyll", "~> 3.5"
-gem "minimal-mistakes-jekyll"
+source 'https://rubygems.org'
+gem 'jekyll', '<4'
+gem 'jekyll-archives'
+gem 'jekyll-sitemap'
+gem 'jekyll-paginate-v2'
