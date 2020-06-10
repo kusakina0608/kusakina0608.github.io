@@ -54,20 +54,11 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: Artificial Neural Network
-    desc: "Posts describing Artificial Neural Network."
-    
-  - cat: Tizen
-    desc: "Posts describing Tizen techniques."
-  
-  - cat: Algorithm
-    desc: "Posts describing Algorithm."
-    
-  - cat: Web
-    desc: "Posts describing web techniques."
+  - cat: jekyll
+    desc: "Posts describing Jekyll setup techniques."
 
-  - cat: Java
-    desc: "Posts describing java language."
+  - cat: dummy
+    desc: "Just some placeholder posts, lorem ipsum and the rest."
 
 # Social icons and sharing options
 #
